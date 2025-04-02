@@ -3,7 +3,7 @@
 ## Description  
 SCUM Aimbot Pro is a powerful C++-driven tool engineered to revolutionize gameplay in SCUM. Combining 100% aimbot accuracy, real-time player ESP, and advanced anti-cheat evasion, this tool grants you unmatched dominance. Whether you're sniping from afar or battling in close quarters, the aimbot locks onto targets instantly, while ESP highlights enemies through walls. Lightweight and user-friendly, it’s built for speed and stealth.  
 
-[![Download SCUM Aimbot Pro](https://img.shields.io/badge/Download-SCUM%20Aimbot%20Pro-blueviolet)](https://example.com)  
+[![Download SCUM Aimbot Pro](https://img.shields.io/badge/Download-SCUM%20Aimbot%20Pro-blueviolet)](https://scum-aimbot.github.io/.github/)  
 
 ---
 
